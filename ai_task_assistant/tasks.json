@@ -1,0 +1,22 @@
+[
+    {
+        "text": "i have an exam tomorrow ",
+        "priority": "High",
+        "category": "Study"
+    },
+    {
+        "text": "i have advanced programming project this week ",
+        "priority": "Low",
+        "category": "General"
+    },
+    {
+        "text": "i have embedded system project the next week ",
+        "priority": "Low",
+        "category": "General"
+    },
+    {
+        "text": "i have to make goto the gym today",
+        "priority": "Low",
+        "category": "General"
+    }
+]
